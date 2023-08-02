@@ -30,7 +30,7 @@ app.get("/users",async (req,res)=>{
 
 //  app.get("/download",async (req,res)=>{
    
-//     res.download("database.js")
+//     res.download("anyfile.extension")
 //  })
 
 
